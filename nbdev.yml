@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "babysteps"
+  site-url: "https://Benephfer.github.io/babysteps"
+  description: "repo to learn how nbdev and other software creation tools work."
+  repo-branch: main
+  repo-url: "https://github.com/Benephfer/babysteps"
